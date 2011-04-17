@@ -1,0 +1,4 @@
+- needs OpenCV 2.1.0 -- http://sourceforge.net/projects/opencvlibrary/
+- packages needed before OpenCV compile:
+libgtk2.0-dev libunicap2-dev libucil2-dev libswscale-dev libdc1394-22-dev libv4l-dev libxine-dev libavformat-dev libglut3-dev libwxgtk2.8-dev
+- needs export LD_LIBRARY_PATH=/usr/local/lib
